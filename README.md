@@ -19,6 +19,7 @@
 - **김승민**(팀장), **최시호**, **강현욱**, **손유정**, **강보현**, **송예준**
 
 ## 💻 개발환경
+<img src='https://img.shields.io/badge/Java%2017-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white' alt='Java 17'/> <img src='https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white' alt='IntelliJ IDEA'/> <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
 - **Version** : Java 17
 - **IDE** : IntelliJ
 - **DB** : MySQL
@@ -141,6 +142,8 @@ src/
 ## 기술 스택
 
 ### 1. **프로그래밍 언어 및 프레임워크**
+
+<img src='https://img.shields.io/badge/Java%208-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white' alt='Java 8 (Application Logic)'/> <img src='https://img.shields.io/badge/Java%20Swing-%236DB33F.svg?style=for-the-badge&logo=java&logoColor=white' alt='Java Swing (UI Implementation)'/> <img src='https://img.shields.io/badge/JDBC-%23007396.svg?style=for-the-badge&logo=java&logoColor=white' alt='JDBC (Database Integration)'/> <img src='https://img.shields.io/badge/멀티스레딩-%23FFCA28.svg?style=for-the-badge&logo=parallel&logoColor=black' alt='Multithreading (Concurrency for Chat Server)'/>
 - **Java 8**: 주요 애플리케이션 로직 개발
 - **Java Swing**: 사용자 인터페이스(UI) 구현
 - **JDBC**: 데이터베이스 통합 및 SQL 처리
